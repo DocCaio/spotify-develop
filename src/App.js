@@ -1,7 +1,13 @@
 import './App.css';
+import SideBar from './components';
+
 
 function App() {
-  return 
+  return (
+    <SideBar/>
+  )
+
+  
    
 }
 
