@@ -1,4 +1,4 @@
-import './SideBar';
+import './SideBar.css';
 
 const SideBar = (props) => {
     return(
@@ -7,20 +7,20 @@ const SideBar = (props) => {
     <nav class="sidebar__navigation">
       <div class="logo">
         <a href="">
-          <img src="./src/assets/icons/logo-spotify.png" alt="Logo" />
+          <img src="/icons/logo-spotify.png" alt="Logo" />
         </a>
       </div>
       <ul>
         <li>
           <a href="">
             <span class="fa fa-home"></span>
-            <span>Início</span>
+            <span>Home</span>
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="#">
             <span class="fa fa-search"></span>
-            <span>Buscar</span>
+            <span>Search</span>
           </a>
         </li>
       </ul>
@@ -38,9 +38,9 @@ const SideBar = (props) => {
       <section class="section-playlist">
         <div class="section-playlist__content">
           <span class="text title">Crie sua primeira playlist</span>
-          <span class="text subtitle">É fácil, vamos te ajudar.</span>
+          <span class="text subtitle">It s easy, vamos te ajudar.</span>
           <button class="section-playlist__button">
-            <span>Criar playlist</span>
+            <span>Create playlist</span>
           </button>
         </div>
       </section>
@@ -52,7 +52,7 @@ const SideBar = (props) => {
       <div class="languages">
         <button class="languages__button">
           <span class="fa fa-globe"></span>
-          <span>Português do Brasil</span>
+          <span>English USA</span>
         </button>
       </div>
     </div>
