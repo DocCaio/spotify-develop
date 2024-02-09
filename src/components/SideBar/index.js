@@ -1,6 +1,6 @@
 import './SideBar.css';
 
-const SideBar = (props) => {
+const SideBar = () => {
     return(
 
         <div class="sidebar">
