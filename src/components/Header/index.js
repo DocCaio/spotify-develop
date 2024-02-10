@@ -8,7 +8,7 @@ const Header = () => {
       <nav class="header__navigation">
         <div class="navigation">
           <button class="arrow-left">
-            <img src="./src/assets/icons/small-left.png" alt="" />
+            <img src="./icons/small-left.png" alt="" />
           </button>
           <button class="arrow-right">
             <img src="./src/assets/icons/small-right.png" alt="" />
