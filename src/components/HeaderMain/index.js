@@ -52,7 +52,7 @@ const Header = () => {
                 <a href="" class="cards">
                   <div class="cards card2">
                     <img src="./src/assets/playlist/2.png" alt="" />
-                    <span>Feitos para você</span>
+                    <span>Made for you</span>
                   </div>
                 </a>
 
@@ -60,7 +60,7 @@ const Header = () => {
                 <a href="" class="cards">
                   <div class="cards card3">
                     <img src="./src/assets/playlist/3.jpeg" alt="" />
-                    <span>Lançamentos</span>
+                    <span>Realeases</span>
                   </div>
                 </a>
 
@@ -107,7 +107,7 @@ const Header = () => {
                 /* CARD 9 */
                 <a href="" class="cards">
                   <div class="cards card9">
-                    <img src="./src/assets/playlist/9.jpeg" alt="" />
+                    <img src="./playlist/9.jpeg" alt="" />
                     <span>Funk</span>
                   </div>
                 </a>
@@ -115,7 +115,7 @@ const Header = () => {
                 /* CARD 10 */
                 <a href="" class="cards">
                   <div class="cards card10">
-                    <img src="./src/assets/playlist/10.jpeg" alt="" />
+                    <img src="./playlist/10.jpeg" alt="" />
                     <span>MPB</span>
                   </div>
                 </a>
@@ -123,7 +123,7 @@ const Header = () => {
                 /* CARD 11 */
                 <a href="" class="cards">
                   <div class="cards card11">
-                    <img src="./src/assets/playlist/11.jpeg" alt="" />
+                    <img src="./playlist/11.jpeg" alt="" />
                     <span>Rock</span>
                   </div>
                 </a>
@@ -131,7 +131,7 @@ const Header = () => {
               /* CARD 12 */
                 <a href="" class="cards">
                   <div class="cards card12">
-                    <img src="./src/assets/playlist/12.jpeg" alt="" />
+                    <img src="./playlist/12.jpeg" alt="" />
                     <span>Hip Hop</span>
                   </div>
                 </a>
@@ -139,7 +139,7 @@ const Header = () => {
                 /* CARD 13 */
                 <a href="" class="cards">
                   <div class="cards card13">
-                    <img src="./src/assets/playlist/13.jpeg" alt="" />
+                    <img src="./playlist/13.jpeg" alt="" />
                     <span>Indie</span>
                   </div>
                 </a>
