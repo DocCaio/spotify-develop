@@ -12,9 +12,10 @@ import HeaderMain from './components/HeaderMain';
 function App() {
   return (
     <>
+   
     <HeaderMain/>
-    
     <SideBar/>
+    
     <Footer/>
     </>
   )
