@@ -44,21 +44,21 @@ const Header = () => {
                   <a href="" className="cards">
                     <div className="cards card1">
                       <img src="./playlist/1.jpeg" alt="" />
-                      <span>Boas festas</span>
+                      <span>Party</span>
                     </div>
                   </a>
   
                   <a href="" className="cards">
                     <div className="cards card2">
                       <img src="./playlist/2.png" alt="" />
-                      <span>Feitos para você</span>
+                      <span>Made for you</span>
                     </div>
                   </a>
   
                   <a href="" className="cards">
                     <div className="cards card3">
                       <img src="./playlist/3.jpeg" alt="" />
-                      <span>Lançamentos</span>
+                      <span>Realises</span>
                     </div>
                   </a>
   
