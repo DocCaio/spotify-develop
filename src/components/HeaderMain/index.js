@@ -74,7 +74,7 @@ const Header = () => {
                   <a href="" className="cards">
                     <div className="cards card5">
                       <img src="./playlist/5.jpeg" alt="" />
-                      <span>Para treinar</span>
+                      <span>Training</span>
                     </div>
                   </a>
   
@@ -96,7 +96,7 @@ const Header = () => {
                   <a href="" className="cards">
                     <div className="cards card8">
                       <img src="./playlist/8.jpeg" alt="" />
-                      <span>Samba e pagode</span>
+                      <span>Samba and pagode</span>
                     </div>
                   </a>
   
@@ -150,7 +150,7 @@ const Header = () => {
                   <a href="" className="cards">
                     <div className="cards card15">
                       <img src="./playlist/15.jpeg" alt="" />
-                      <span>Música Latina</span>
+                      <span>Latin musics</span>
                     </div>
                   </a>
                 </section>
