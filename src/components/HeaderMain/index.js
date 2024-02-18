@@ -33,7 +33,7 @@ const Header = () => {
             <div className="playlist">
             
               <h1 id="greeting"></h1>
-              <h2 className="session">Navegar por todas as seções</h2>
+              <h2 className="session">Browse all sections</h2>
             </div>
   
           
@@ -171,7 +171,7 @@ const Header = () => {
                 <div className="card-text">
                   <a title="Foo Fighters" className="vst" href="">
                   <span className="artist-name" id="artist-name"></span>
-                  <span className="artist-categorie">Artista</span>
+                  <span className="artist-categorie">Artist</span>
                   </a>
                 </div>
               </div>
