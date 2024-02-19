@@ -1,6 +1,27 @@
+# Spotify-clone
+
+Spotify-clone , this website streaming.
+
+## Technologies used
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)](https://skillicons.dev)
+
+
+  # :hammer: Project features
+
+- `functionality `:
+- Responsive.
+  
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20finished&color=GREEN&style=for-the-badge)
+
+### Print
+  <img src="https://github.com/DocCaio/Blog-cards/blob/main/public/imagens/screenshot.png" alt="Minha Figura">
+
+
+
 ### Getting Started with api
 
-json-server --watch api-artists/artists.json --port 3001
+`json-server --watch api-artists/artists.json --port 3001`
 
 ### Getting Started with Create React App
 
