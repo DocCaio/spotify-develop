@@ -20,7 +20,7 @@ const Header = () => {
             <div className="header__search">
               <img src="./icons/search.png" alt="" />
               <input id="search-input" maxlength="800" autocorrect="off" autocapitalize="off" spellcheck="false"
-                placeholder="Search here" value="" />
+                placeholder="What do you want to play" value="" />
             </div>
           </div>
   
@@ -36,7 +36,7 @@ const Header = () => {
             <div className="playlist">
             
               <h1 id="greeting"></h1>
-              <h2 className="session">Browse all sections</h2>
+              <h2 className="session">Browse all</h2>
             </div>
   
           
