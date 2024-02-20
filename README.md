@@ -21,7 +21,7 @@ Spotify-clone , this website streaming.
 
 ### Getting Started with api
 
-`json-server --watch api-artists/artists.json --port 3001`
+`json-server --watch api-artists/artists.json --port 3000`
 
 ### Getting Started with Create React App
 
