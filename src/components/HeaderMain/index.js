@@ -20,7 +20,7 @@ const Header = () => {
             <div className="header__search">
               <img src="./icons/search.png" alt="" />
               <input id="search-input" maxlength="800" autocorrect="off" autocapitalize="off" spellcheck="false"
-                placeholder="O que você quer ouvir?" value="" />
+                placeholder="Search here" value="" />
             </div>
           </div>
   

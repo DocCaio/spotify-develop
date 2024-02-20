@@ -37,8 +37,8 @@ const SideBar = () => {
 
       <section class="section-playlist">
         <div class="section-playlist__content">
-          <span class="text title">Crie sua primeira playlist</span>
-          <span class="text subtitle">It s easy, vamos te ajudar.</span>
+          <span class="text title">Create your first playslist</span>
+          <span class="text subtitle">Let s find some podcasts to follow.</span>
           <button class="section-playlist__button">
             <span>Create playlist</span>
           </button>
