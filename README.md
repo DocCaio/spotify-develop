@@ -15,7 +15,7 @@ Spotify-clone , this website streaming.
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20finished&color=GREEN&style=for-the-badge)
 
 ### Print
-  <img src="https://github.com/DocCaio/Blog-cards/blob/main/public/imagens/screenshot.png" alt="Minha Figura">
+  <img src="https://github.com/DocCaio/spotify-develop/blob/main/public/icons/print.png" alt="Minha Figura">
 
 
 
