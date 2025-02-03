@@ -4,7 +4,7 @@ Spotify-clone , this website streaming.
 
 ## Technologies used
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react)](https://skillicons.dev)
 
 
   # :hammer: Project features
